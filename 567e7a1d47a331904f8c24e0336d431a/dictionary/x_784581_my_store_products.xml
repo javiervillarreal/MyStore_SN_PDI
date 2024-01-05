@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7bb08fdd47a331904f8c24e0336d4351" label="Products" max_length="40" name="x_784581_my_store_products" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" reference="x_784581_my_store_categories" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Image URL" max_length="1024" name="image_url" type="url"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

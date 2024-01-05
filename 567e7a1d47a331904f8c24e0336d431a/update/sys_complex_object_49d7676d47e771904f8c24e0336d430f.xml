@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD85d7676d0fe77190574f554a0e41920f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>567e7a1d47a331904f8c24e0336d431a</scope_name>
+        <serialized_content>{"FlowDesigner:FD85d7676d0fe77190574f554a0e41920f":{"root_array":["Any"],"root_array.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"root_array\",\"mandatory\":\"false\",\"child_name\":\"root_array_string\",\"uiUniqueId\":\"b651f09f-107d-41bc-b8fd-18768011e2cd\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"root_array_string\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"0163d409-5ade-4563-8be8-22b171ea7953\"}"}},"FlowDesigner:FD85d7676d0fe77190574f554a0e41920f.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD85d7676d0fe77190574f554a0e41920f\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"root\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"65000\",\"uiUniqueId\":\"9d767baa-c955-4f4e-9950-febfaeb64135\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 16:40:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>49d7676d47e771904f8c24e0336d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD85d7676d0fe77190574f554a0e41920f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Store" source="x_784581_my_store">567e7a1d47a331904f8c24e0336d431a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Store">567e7a1d47a331904f8c24e0336d431a</sys_scope>
+        <sys_update_name>sys_complex_object_49d7676d47e771904f8c24e0336d430f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 16:40:03</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

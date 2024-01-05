@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7bb08fdd47a331904f8c24e0336d4351" label="Products" max_length="40" name="x_784581_my_store_products" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Image URL" max_length="1024" name="image_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="omit_sys_original=true" label="Price" max_length="20" name="price" type="currency"/>
+        <element label="Rating" max_length="15" name="rating" type="decimal"/>
+        <element label="Rating Count" max_length="40" name="rating_count" type="integer"/>
+        <element label="SKU" max_length="40" name="sku" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
+    </element>
+</database>

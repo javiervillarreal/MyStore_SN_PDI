@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6bde3e5d47a331904f8c24e0336d4361" label="Categories" max_length="40" name="x_784581_my_store_categories" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Category" mandatory="true" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
